@@ -1,0 +1,74 @@
+.desappear{
+  display: none;
+}
+body{
+  background: url(http://conarte.org.mx/wp-content/uploads/2017/07/cine-club.jpg)
+
+}
+h1{
+  font-family: 'Lobster', cursive;
+  font-size: 90px;
+  color: white;
+  text-align: center;
+}
+label{
+  color: white;
+  margin-left: 500px;
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+
+}
+p{
+  text-align: center;
+  color: white;
+  font-size: 40px;
+  font-family: 'Lobster', cursive;
+
+}
+#input-name{
+  font-size: 20px;
+  text-align: center;
+}
+#button-name{
+  color: #d8100f;
+  margin-left: center;
+  font-size: 25px;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+}
+#button-fantasy{
+  color: #d8100f;
+  margin-left: center;
+  font-size: 25px;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+}
+#button-terror{
+  color: #d8100f;
+  margin-left: center;
+  font-size: 25px;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+}
+p2{
+  color: white;
+  margin-left: 500px;
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+}
+p3{
+  color: white;
+  margin-left: 500px;
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+}
+#content{
+  color: white;
+  font-size: 30px;
+  margin-left: 500px;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+}
